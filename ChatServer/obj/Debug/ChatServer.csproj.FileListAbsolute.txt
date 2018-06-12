@@ -1,0 +1,7 @@
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
